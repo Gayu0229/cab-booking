@@ -469,7 +469,7 @@
 									<li><a href="jobs.html">Jobs</a></li>
 									<li><a href="blog.html">Blog</a></li>
 									<li><a href="locations.html">Locations</a></li>
-									<li><a href="contact.html">Contact</a></li>
+									<li><a href="contact.html">mobile no</a></li>
 								</ul>
 							</div>
 						</div>
